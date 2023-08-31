@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$1" == ""]
+if [ "$1" == "" ]
 then
 echo "You forgot an IP address!"
 echo "Syntax: ./ipsweep.sh 192.168.1"
